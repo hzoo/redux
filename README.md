@@ -5,12 +5,9 @@ redux
 [![npm version](https://img.shields.io/npm/v/redux.svg?style=flat-square)](https://www.npmjs.com/package/redux)
 [![redux channel on slack](https://img.shields.io/badge/slack-redux@reactiflux-61DAFB.svg?style=flat-square)](http://www.reactiflux.com)
 
-Redux is an architecture for JavaScript applications with unidirectional data flow.  
-It evolves the ideas of [Flux](https://facebook.github.io/flux), taking cues from [Elm](elm-lang.org/guide/architecture) and [Om](http://swannodette.github.io/2013/12/17/the-future-of-javascript-mvcs/) for a succinct approach based on functional composition.  
+Redux is an architecture for JavaScript applications with unidirectional data flow. It evolves the ideas of [Flux](https://facebook.github.io/flux), taking cues from [Elm](elm-lang.org/guide/architecture) and [Om](http://swannodette.github.io/2013/12/17/the-future-of-javascript-mvcs/) for a succinct approach based on functional composition.  
 
-Redux works both for client-side, universal, and native apps.  
-You can use Redux together with [React](https://facebook.github.io/react/), or any other view library.  
-Redux is just 2 kB and has no dependencies, but its ecosystem takes the developer experience to the next level.  
+Redux works both for client-side, universal, and native apps. You can use Redux together with [React](https://facebook.github.io/react/) or any other view library. Redux is tiny (2kB) and has no dependencies, but its ecosystem takes the developer experience to the next level.  
 
 ## How It Works
 
